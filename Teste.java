@@ -36,6 +36,7 @@ public static class Carro {
     private String modelo;
     private String marca;
     private int ano;
+    private String cor;
 
     // Construtor
     public Carro(String modelo, String marca, int ano) {
